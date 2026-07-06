@@ -33,16 +33,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-huraira-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-22&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abu-huraira-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abu-huraira-dev-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abu-huraira-22&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abu-huraira-dev-22&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/abu-huraira-22" target="_blank">
+  <a href="https://github.com/abu-huraira-dev-22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abu-huraira-22&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abu-huraira-dev-22&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile! Let's build something amazing together.</i></p>
