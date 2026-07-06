@@ -1,64 +1,132 @@
-<h1 align="center">Hi 👋, I'm Abu Huraira Ansari</h1>
-<h3 align="center">A passionate Full Stack Developer specializing in the MERN & PERN stacks</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;PERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+%2F+Always+Building" alt="Typing SVG" />
+<img src="https://avatars.githubusercontent.com/u/153848312?v=4" width="120" style="border-radius:50%;" />
+
+# Abu Huraira Ansari
+
+### Full Stack Developer &nbsp;|&nbsp; MERN &nbsp;•&nbsp; PERN
+
+<p>
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
 
----
+<p>
+  <a href="https://github.com/abu-huraira-dev-22"><img src="https://img.shields.io/github/followers/abu-huraira-dev-22?label=Followers&style=social" /></a>
+  <a href="https://github.com/abu-huraira-dev-22?tab=repositories"><img src="https://img.shields.io/github/stars/abu-huraira-dev-22?affiliations=OWNER&label=Stars&style=social" /></a>
+</p>
 
-### 🚀 About Me
+</div>
 
-- 💻 I build end-to-end web applications using **MongoDB, Express, React, Node.js (MERN)** and **PostgreSQL, Express, React, Node.js (PERN)**
-- 🌱 Currently sharpening my skills in scalable backend architecture and clean UI design
+<br/>
+
+## 👋 About Me
+
+I'm a **Full Stack Developer** who builds complete web applications end-to-end — from responsive front-ends to robust APIs and databases — using the **MERN** (MongoDB, Express, React, Node.js) and **PERN** (PostgreSQL, Express, React, Node.js) stacks.
+
+- 🔭 Currently building projects across the MERN & PERN stacks
+- 🌱 Sharpening skills in scalable backend architecture, clean UI, and API design
 - 🤝 Open to collaborating on full stack web projects
-- ⚡ Fun fact: I enjoy turning ideas into working products from scratch
-- 📫 Reach me via GitHub — feel free to open an issue or drop a message
+- 💬 Ask me about React, Node.js, MongoDB, PostgreSQL or Tailwind CSS
+- 📫 Reach me by opening an issue on any of my repos
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgresql,html,css,tailwind,git,github,figma,vscode,postman" />
-</p>
+<div align="center">
 
-**Frontend:** React.js, Redux, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
-**Backend:** Node.js, Express.js
-**Databases:** MongoDB, PostgreSQL
-**Tools & Platforms:** Git, GitHub, Postman, VS Code, Figma
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
----
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### 📊 GitHub Stats
+**Database**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abu-huraira-dev-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abu-huraira-dev-22&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
+<br/>
 
----
+## 📌 Featured Projects
 
-### 🔗 Connect with Me
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Portfolio"><b>💼 Portfolio</b></a>
+      <br/>Personal portfolio website showcasing my work.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Profile-Card"><b>🪪 Profile Card</b></a>
+      <br/>A sleek, responsive profile card component.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Construction-Website"><b>🏗️ Construction Website</b></a>
+      <br/>A full landing page for a construction business.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Login-Page"><b>🔐 Login Page</b></a>
+      <br/>Clean, modern authentication UI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Calculator"><b>🧮 Calculator</b></a>
+      <br/>A functional calculator built with vanilla JS.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/abu-huraira-dev-22/Navbar"><b>🧭 Navbar</b></a>
+      <br/>A responsive, reusable navigation bar component.
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/abu-huraira-dev-22" target="_blank">
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<p align="center"><i>⚠️ If the stats cards above appear broken, it's a known outage on the free public stats service — not your README. Refresh later, or ask me to switch to a self-hosted / static alternative.</i></p>
+
+<br/>
+
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/abu-huraira-dev-22">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abu-huraira-dev-22&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abu-huraira-dev-22&style=flat-square&color=2E9EF7&label=Profile+Views" />
+</div>
 
-<p align="center"><i>⭐ Thanks for visiting my profile! Let's build something amazing together.</i></p>
+<p align="center"><i>⭐ Thanks for stopping by — let's build something great together!</i></p>
