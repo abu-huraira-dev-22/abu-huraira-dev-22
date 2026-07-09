@@ -1,99 +1,157 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/153848312?v=4" width="120" style="border-radius:50%;" />
+# 👋 Hi, I'm Abu Huraira Ansari
 
-# Abu Huraira Ansari
+### 🚀 Full Stack Developer | MERN • PERN
 
-### Full Stack Developer &nbsp;|&nbsp; MERN &nbsp;•&nbsp; PERN
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+Supabase;Docker+%7C+Redis+%7C+CI%2FCD;Always+Learning+New+Technologies" />
 
-<p>
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-2E9EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=abu-huraira-dev-22&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+<a href="https://github.com/abu-huraira-dev-22">
+<img src="https://img.shields.io/github/followers/abu-huraira-dev-22?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/abu-huraira-dev-22?tab=repositories">
+<img src="https://img.shields.io/github/stars/abu-huraira-dev-22?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate **Full Stack Developer** building scalable web applications using modern technologies.
+
+- 🔭 Building Full Stack Projects with **MERN & PERN**
+- 🌱 Currently learning **Docker, Redis, CI/CD & System Design**
+- ⚡ Interested in Backend Development & API Architecture
+- 🤝 Open Source Contributor & Team Collaboration
+- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL**
+- 📫 Reach me through GitHub
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite" />
 </p>
 
-</div>
+---
 
-<br/>
+## ⚙️ Backend
 
-## 👋 About Me
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-I'm a **Full Stack Developer** who builds complete web applications end-to-end — from responsive front-ends to robust APIs and databases — using the **MERN** (MongoDB, Express, React, Node.js) and **PERN** (PostgreSQL, Express, React, Node.js) stacks.
+---
 
-- 🔭 Currently building projects across the MERN & PERN stacks
-- 🌱 Sharpening skills in scalable backend architecture, clean UI, and API design
-- 🤝 Open to collaborating on full stack web projects
-- 💬 Ask me about React, Node.js, MongoDB, PostgreSQL or Tailwind CSS
-- 📫 Reach me by opening an issue on any of my repos
+## 🗄️ Database
 
-<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" />
+</p>
 
-## 🛠️ Tech Stack
+---
+
+## ☁️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,figma,vscode,npm" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💼 **Portfolio** | Personal Portfolio showcasing my projects and skills |
+| 🏗️ **Construction Website** | Modern responsive landing page |
+| 🔐 **Authentication UI** | Beautiful Login & Register Interface |
+| 🛍️ **E-Commerce UI** | Responsive Shopping Website UI |
+| 📱 **Profile Card** | Responsive reusable profile card |
+| 🧮 **Calculator** | Functional calculator using JavaScript |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abu-huraira-dev-22&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abu-huraira-dev-22&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abu-huraira-dev-22&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+✨ Master Full Stack Development
+
+🚀 Build Production Ready Applications
+
+🐳 Learn Docker & Kubernetes
+
+⚡ Master CI/CD Pipelines
+
+☁️ Deploy Scalable Applications
+
+📚 Improve Data Structures & System Design
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/abu-huraira-dev-22">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,postgresql,git,github,figma,vscode,postman" />
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
 </div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Portfolio"><b>💼 Portfolio</b></a>
-      <br/>Personal portfolio website showcasing my work.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Profile-Card"><b>🪪 Profile Card</b></a>
-      <br/>A sleek, responsive profile card component.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Construction-Website"><b>🏗️ Construction Website</b></a>
-      <br/>A full landing page for a construction business.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Login-Page"><b>🔐 Login Page</b></a>
-      <br/>Clean, modern authentication UI.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Calculator"><b>🧮 Calculator</b></a>
-      <br/>A functional calculator built with vanilla JS.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/abu-huraira-dev-22/Navbar"><b>🧭 Navbar</b></a>
-      <br/>A responsive, reusable navigation bar component.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/abu-huraira-dev-22?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" />
-  <img src="https://img.shields.io/github/stars/abu-huraira-dev-22?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/last-commit/abu-huraira-dev-22/abu-huraira-dev-22?label=Last%20Commit&style=for-the-badge&color=success" />
-</div>
-
-<br/>
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/abu-huraira-dev-22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abu-huraira-dev-22&style=for-the-badge&color=2E9EF7&label=Profile+Views" />
-</div>
-
-<p align="center"><i>⭐ Thanks for stopping by — let's build something great together!</i></p>
