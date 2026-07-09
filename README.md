@@ -34,28 +34,8 @@
 
 ## 🚀 Tech Stack
 
-**Frontend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Database**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis" />
-</p>
-
-**DevOps & Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,figma,vscode,npm" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,postgres,supabase,redis,docker,githubactions,git,github,postman,figma,vscode,npm" />
 </p>
 
 <br>
@@ -100,8 +80,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abu-huraira-dev-22&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abu-huraira-dev-22&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -123,17 +103,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abu-huraira-dev-22&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
-
-<br>
-
-## 🎯 Current Goals
-
-- [ ] Master Full Stack Development
-- [ ] Build production-ready applications
-- [ ] Learn Docker & Kubernetes
-- [ ] Master CI/CD pipelines
-- [ ] Deploy scalable applications
-- [ ] Improve Data Structures & System Design
 
 <br>
 
