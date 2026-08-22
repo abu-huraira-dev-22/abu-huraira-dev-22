@@ -68,11 +68,6 @@
     <td><b>Profile Card</b></td>
     <td>Responsive reusable profile card</td>
   </tr>
-  <tr>
-    <td>🧮</td>
-    <td><b>Calculator</b></td>
-    <td>Functional calculator using JavaScript</td>
-  </tr>
 </table>
 
 <br>
