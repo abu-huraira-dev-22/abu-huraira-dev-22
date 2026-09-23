@@ -44,28 +44,53 @@
 
 <table>
   <tr>
+    <td>✅</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/todo-app">Todo App</a></b></td>
+    <td>React todo list with add/delete/toggle-complete and localStorage persistence via a custom hook</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/quiz-app">Quiz App</a></b></td>
+    <td>Multiple-choice quiz with scoring, navigation, and a completion screen</td>
+  </tr>
+  <tr>
+    <td>💰</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/expense-tracker">Expense Tracker</a></b></td>
+    <td>Tracks expenses by category with running totals</td>
+  </tr>
+  <tr>
+    <td>🔥</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/habit-tracker">Habit Tracker</a></b></td>
+    <td>Daily habit tracker with streak calculation and a GitHub-style activity grid</td>
+  </tr>
+  <tr>
+    <td>📇</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/contact-book">Contact Book (Full Stack)</a></b></td>
+    <td>MERN CRUD app — React frontend connected to an Express + MongoDB backend</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/auth-api">Authentication API</a></b></td>
+    <td>Node.js/Express REST API with JWT auth, bcrypt password hashing, protected routes, and Nodemailer welcome emails — built with an MVC structure</td>
+  </tr>
+  <tr>
     <td>💼</td>
-    <td><b>Portfolio</b></td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/portfolio">Portfolio</a></b></td>
     <td>Personal portfolio showcasing my projects and skills</td>
   </tr>
   <tr>
     <td>🏗️</td>
-    <td><b>Construction Website</b></td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/construction-website">Construction Website</a></b></td>
     <td>Modern responsive landing page</td>
   </tr>
   <tr>
-    <td>🔐</td>
-    <td><b>Authentication UI</b></td>
-    <td>Beautiful login & register interface</td>
-  </tr>
-  <tr>
     <td>🛍️</td>
-    <td><b>E-Commerce UI</b></td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/ecommerce-ui">E-Commerce UI</a></b></td>
     <td>Responsive shopping website UI</td>
   </tr>
   <tr>
     <td>📱</td>
-    <td><b>Profile Card</b></td>
+    <td><b><a href="https://github.com/abu-huraira-dev-22/profile-card">Profile Card</a></b></td>
     <td>Responsive reusable profile card</td>
   </tr>
 </table>
@@ -84,15 +109,6 @@
 </p>
 
 <br>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abu-huraira-dev-22&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<br>
-
 
 ## 🤝 Connect With Me
 
