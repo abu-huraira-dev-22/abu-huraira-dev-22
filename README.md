@@ -88,11 +88,6 @@
     <td><b><a href="https://github.com/abu-huraira-dev-22/ecommerce-ui">E-Commerce UI</a></b></td>
     <td>Responsive shopping website UI</td>
   </tr>
-  <tr>
-    <td>📱</td>
-    <td><b><a href="https://github.com/abu-huraira-dev-22/profile-card">Profile Card</a></b></td>
-    <td>Responsive reusable profile card</td>
-  </tr>
 </table>
 
 <br>
