@@ -28,7 +28,6 @@
 - ⚡ Interested in Backend Development & API Architecture
 - 🤝 Open Source Contributor & Team Collaboration
 - 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL**
-- 📫 Reach me through GitHub
 
 <br>
 
