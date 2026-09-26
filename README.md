@@ -27,7 +27,6 @@
 - 🌱 Currently learning **Docker, Redis, CI/CD & System Design**
 - ⚡ Interested in Backend Development & API Architecture
 - 🤝 Open Source Contributor & Team Collaboration
-- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL**
 
 <br>
 
