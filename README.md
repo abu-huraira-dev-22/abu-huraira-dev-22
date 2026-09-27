@@ -81,11 +81,6 @@
     <td><b><a href="https://github.com/abu-huraira-dev-22/construction-website">Construction Website</a></b></td>
     <td>Modern responsive landing page</td>
   </tr>
-  <tr>
-    <td>🛍️</td>
-    <td><b><a href="https://github.com/abu-huraira-dev-22/ecommerce-ui">E-Commerce UI</a></b></td>
-    <td>Responsive shopping website UI</td>
-  </tr>
 </table>
 
 <br>
